@@ -16,7 +16,9 @@ _And then_ is a take on the classic improv game, "[Yes, and](https://en.wikipedi
 **How to GitHub with R/RStudio**
 The aim of this project is not to _teach_ you GitHub, but rather provide a space for you to practice applying what you're learning about GitHub with R/RStudio to a public repository without worrying about breaking something or being judged for not *quite* knowing what you're doing.  
 
-We strongly recommend the [Happy Git With R](http://happygitwithr.com/) tutorial by [Jenny Bryan](https://twitter.com/JennyBryan) for learning how to use GitHub from the RStudio interface.
+We strongly recommend the [Happy Git With R](http://happygitwithr.com/) tutorial by [Jenny Bryan](https://twitter.com/JennyBryan) for learning how to use GitHub from the RStudio interface.  
+
+Sections 23 and 24 of Happy Git With R will walk you through the basics of contributing to a repo. You can apply these skills to working in the "Git Gud" repository!
 
 *** 
 
