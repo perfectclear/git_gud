@@ -4,3 +4,7 @@ author: "Jesse Mostipak"
 date: "3/5/2018"
 output: html_document
 ---
+
+Once upon a time there was a data scientist. Every day, this data scientist spent time learning R. One day, the data scientist came across an interesting data set.
+
+And then...
