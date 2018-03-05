@@ -9,7 +9,8 @@ This repository is designed for newcomers to both R/RStudio and GitHub, and cons
 _Typos_ consists of a multitude of text files that have typos in them. While it might be tempting to go through and fix ALL THE TYPOS!, please be considerate and save some for other learners.
 
 **And then**  
-_And then_ is a take on the classic improv game, "[Yes, and](https://en.wikipedia.org/wiki/Yes,_and...)." There are multiple RMarkdown files in this repository, all starting with a single sentence prompt followed by "and then..." Your responsibility is to build on the story by adding no more than five sentences and/or one code chunk (it's up to you whether or not it takes a data-driven turn!), and then finishing your contribution with "and then..."
+_And then_ is a take on the classic improv game, "[Yes, and](https://en.wikipedia.org/wiki/Yes,_and...)." There are multiple RMarkdown files in this repository, all starting with a single sentence prompt followed by "and then..." Your responsibility is to build on the story by adding no more than five sentences and/or one code chunk (it's up to you whether or not it takes a data-driven turn!), and then finishing your contribution with "and then..."  
+Please keep all of your writing prompts [G-rated](https://www.merriam-webster.com/dictionary/G-rated). Inappropriate additions will not be merged.
 
 ***
 
