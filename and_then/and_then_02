@@ -1,0 +1,10 @@
+---
+title: "and_then_02"
+author: "Michael Apers"
+date: "3/22/2018"
+output: html_document
+---
+
+the data scientist realized that 40% of the data was corrupted, missing, NA, or null! So she sat down and got to work. There were many types of data: strings, integers, floats, even missing booleans!
+
+And then...
